@@ -2,8 +2,11 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
-.DS_Store
 /build
 .idea
 local.properties
 FragmentAnimationExample.iml
+.gradle/
+build/
+local.properties
+
